@@ -9,6 +9,12 @@
 ### 📱 Proje Hakkında
 Bu proje, kullanıcıların popüler yemekleri listeleyebileceği, sepetlerine ürün ekleyip güncelleyebileceği, modern ve şık bir arayüze sahip bir **Yemek Sipariş Uygulamasıdır**. Flutter'ın güçlü widget yapısı kullanılarak temiz, performanslı ve kullanıcı dostu bir deneyim sunmak amacıyla geliştirilmiştir.
 
+### 📸 Ekran Görüntüleri / Screenshots
+
+| Ana Sayfa | Menü Sayfası | Sepetim | Ürün Açıklaması
+|---|---|---|
+| <img src="page1.png" width="250"> | <img src="page2.png" width="250"> | <img src="page4.png" width="250"> | <img src="page3.png" width="250">
+
 ### ✨ Öne Çıkan Özellikler
 * **Dinamik Popüler Kartlar:** Özel gradyan geçişleri ve şık kart tasarımları.
 * **Gelişmiş Sepet Mantığı:** Ürünlerin sepette olup olmadığını kontrol eden, mükerrer eklemeyi önleyen akıllı sepet sistemi.
